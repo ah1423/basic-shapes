@@ -1,0 +1,11 @@
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\bin\Debug\netcoreapp2.1\basic-shapes.deps.json
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\bin\Debug\netcoreapp2.1\basic-shapes.runtimeconfig.json
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\bin\Debug\netcoreapp2.1\basic-shapes.runtimeconfig.dev.json
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\bin\Debug\netcoreapp2.1\basic-shapes.dll
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\bin\Debug\netcoreapp2.1\basic-shapes.pdb
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\obj\Debug\netcoreapp2.1\basic-shapes.csprojAssemblyReference.cache
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\obj\Debug\netcoreapp2.1\basic-shapes.csproj.CoreCompileInputs.cache
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\obj\Debug\netcoreapp2.1\basic-shapes.AssemblyInfoInputs.cache
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\obj\Debug\netcoreapp2.1\basic-shapes.AssemblyInfo.cs
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\obj\Debug\netcoreapp2.1\basic-shapes.dll
+\\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hicks_P110124196\Object Orientated Programming\GITHUB\basic-shapes\obj\Debug\netcoreapp2.1\basic-shapes.pdb
